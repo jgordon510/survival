@@ -1,0 +1,4 @@
+name = knapping_recipes
+description = using the api
+depends = knapping, default, throw_stack, controls, animalia
+optional_depends = mapgen_rivers

@@ -1,0 +1,10 @@
+{
+    "type": "MOD",
+    "title": "Offhand Items",
+    "dev_state": "BETA",
+    "tags": ["tools","inventory"],
+    "repo": "https://github.com/t-affeldt/minetest_offhand",
+    "issue_tracker": "https://github.com/t-affeldt/minetest_offhand/issues",
+    "forums": 29223,
+    "license": "GPL-3.0-only"
+}
